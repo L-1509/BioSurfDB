@@ -1,0 +1,7 @@
+pandas==2.3.3
+numpy==2.2.6
+openpyxl==3.1.5
+pubchempy==1.0.5
+
+# RDKit is not reliably installable via pip; use conda instead:
+# conda install -c conda-forge rdkit=2026.03.2
